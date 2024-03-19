@@ -4,7 +4,7 @@
 
 from openai import OpenAI
 
-text = open('test-20240319-2-data.md').read()
+text = open('test-02-data.md').read()
 
 url = "http://localhost:8000/v1"
 

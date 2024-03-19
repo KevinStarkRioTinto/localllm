@@ -1,0 +1,6 @@
+git+https://github.com/GoogleCloudPlatform/localllm#egg=llm&subdirectory=llm-tool
+openai
+PyPDF2
+langchain
+llama-index
+gradio
